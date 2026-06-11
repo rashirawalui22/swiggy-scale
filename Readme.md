@@ -67,7 +67,7 @@ This transforms the system from a single point of failure into a resilient distr
 - Node.js
 - PostgreSQL
 - Redis
-- AWS
+- AWS  
 - CloudFront
 - SQS
 - Auto Scaling
